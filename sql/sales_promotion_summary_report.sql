@@ -7,7 +7,7 @@ WITH base AS (
         販売促進
     WHERE
         地域 = '関東'
-        AND 販売促進種別 IN('販促タイプA', '販促タイプB')
+        AND 販売促進種別 IN ('販促タイプA', '販促タイプB')
         AND テーブル更新日 BETWEEN CURRENT_DATE - 6 AND CURRENT_DATE
 )
 
