@@ -19,3 +19,5 @@
 - 新規登録用・更新用のExcelファイルを自動生成
 
 使用技術：Python、DuckDB、pandas、openpyxl
+
+※実行には別途ダウンロードデータが必要です。
