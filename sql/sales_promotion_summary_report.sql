@@ -18,8 +18,5 @@ SELECT
     , COUNT(DISTINCT CASE WHEN base.販売促進種別 = '販促タイプB' THEN base.商品ID ELSE NULL END) AS 販促タイプB適用商品数
 FROM
     base
-WHERE
-    base.deal_price > 1000
-    AND base.forecasted_sales > 10000
 GROUP BY
     1
