@@ -7,7 +7,7 @@ Power BIを用いたデータ加工・可視化・分析スキルを示すため
 
 ## 使用データ
 UCI Machine Learning Repositoryで公開されている、英国のオンライン小売業者の取引データ「Online Retail」。  
-https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail（最終閲覧：2026/10/13）
+https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail （最終閲覧：2026/10/13）
 
 ## 主な作業
 - Excel形式の取引データを加工し、SharePoint Onlineにアップロード
