@@ -6,8 +6,7 @@
 Power BIを用いたデータ加工・可視化・分析スキルを示すための自主制作サンプル。
 
 ## 使用データ
-UCI Machine Learning Repositoryで公開されている、英国のオンライン小売業者の取引データ「Online Retail」。
-
+UCI Machine Learning Repositoryで公開されている、英国のオンライン小売業者の取引データ「Online Retail」。  
 https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail（最終閲覧：2026/10/13）
 
 ## 主な作業
@@ -19,8 +18,7 @@ https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail（最終閲覧�
 - 総売上、販売数量、国数、商品数をカードで表示
 
 ## 分析結果
-国別売上構成比の約66.7%をオーストラリアが占め、日本は約18.1%である。上位2か国で全体の約84.8%を占めており、売上の地域的な偏りが見られる。
-
+国別売上構成比の約66.7%をオーストラリアが占め、日本は約18.1%である。上位2か国で全体の約84.8%を占めており、売上の地域的な偏りが見られる。  
 商品別売上TOP10では、「RABBIT NIGHT LIGHT」が最も高く、2位以下との差も大きいため、主力商品の一つと考えられる。
 
 ## 位置づけ
