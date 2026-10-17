@@ -2,14 +2,15 @@
 
 公開取引データを加工し、SharePoint OnlineとPower BIを活用して、売上推移・国別売上構成・商品別売上ランキングなどを可視化した自主制作サンプルです。
 
-# 制作目的
+## 制作目的
 Power BIを用いたデータ加工・可視化・分析スキルを示すための自主制作サンプル。
 
-# 使用データ
+## 使用データ
 UCI Machine Learning Repositoryで公開されている、英国のオンライン小売業者の取引データ「Online Retail」。
+
 https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail（最終閲覧：2026/10/13）
 
-# 主な作業
+## 主な作業
 - Excel形式の取引データを加工し、SharePoint Onlineにアップロード
 - Power BI Desktopへのデータ取り込み
 - Power Query エディターを使用したデータ加工
@@ -17,9 +18,10 @@ https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail（最終閲覧�
 - 国別売上構成比、国別売上上位、商品別売上TOP10の作成
 - 総売上、販売数量、国数、商品数をカードで表示
 
-# 分析結果
+## 分析結果
 国別売上構成比の約66.7%をオーストラリアが占め、日本は約18.1%である。上位2か国で全体の約84.8%を占めており、売上の地域的な偏りが見られる。
+
 商品別売上TOP10では、「RABBIT NIGHT LIGHT」が最も高く、2位以下との差も大きいため、主力商品の一つと考えられる。
 
-# 位置づけ
+## 位置づけ
 実務案件ではなく、公開データを利用した自主制作サンプル。
